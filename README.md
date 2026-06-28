@@ -2,7 +2,7 @@
 
 # Hi, I'm Etienne 👋
 
-### Full-Stack Developer • MERN • AI-Driven Engineering
+### Full-Stack Developer 
 
 I design and build scalable web applications, focusing on clean architecture, performant systems, and intelligent AI-enhanced development workflows.
 
