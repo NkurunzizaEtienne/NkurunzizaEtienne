@@ -1,6 +1,8 @@
 <div align="center">
 
-# Hi, I'm Etienne 👋
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Etienne;Call+me+Wonder;Full-Stack+Developer;Building+clean+and+modern+web+apps" />
+</p>
 
 ### Full-Stack Developer 
 
