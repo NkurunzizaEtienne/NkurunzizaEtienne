@@ -103,43 +103,6 @@ Exploring:
 
 ---
 
-# Current Focus
-
-```txt
-Building production-ready full-stack applications
-
-Mastering backend engineering with NestJS
-
-Exploring Next.js and modern web architectures
-
-Improving software architecture and system design skills
-
-Learning AI-assisted software engineering workflows
-
-Strengthening programming fundamentals with Go, C++, and Java
-
-Creating meaningful open-source projects
-
-Writing clean, maintainable, scalable code
-```
-
----
-
-# Featured Projects
-
-## African Wisdom
-
-A platform preserving African stories, lessons, and cultural knowledge through modern web technology.
-
-Built with:
-
-- React
-- TypeScript
-- Tailwind CSS
-- Sanity CMS
-- Framer Motion
-
----
 
 ## Dev Playground
 
